@@ -1,3 +1,3 @@
 # ImagaEditor
-Image Editor with HTML/CSS/JavaScript.\n
-Full view: ischools.uz.
+Image Editor with HTML/CSS/JavaScript.  
+Full view: https://ischools.uz
